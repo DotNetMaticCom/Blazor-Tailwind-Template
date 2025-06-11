@@ -1,0 +1,14 @@
+# .NET Core
+[Bb]in/
+[Oo]bj/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build outputs
+wwwroot/app.min.css
+
+# User-specific files
+*.user
+*.suo
